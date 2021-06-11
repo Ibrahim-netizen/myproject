@@ -1,4 +1,4 @@
-#Workdone by Tahmid Alam (U1475879) and Ibrahim Giwa (U2078318)
+#Workdone by Tahmid Alam and Ibrahim Giwa
 
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import date_add, to_date, format_number, year, quarter,month
